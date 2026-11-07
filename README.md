@@ -54,7 +54,7 @@ missing_person_finder/
 
 ### 🧩 1. Clone the repository
 ```bash
-git clone https://github.com/Veena3028/missing_person_finder.git
+https://github.com/navyadhanalakshmi-bandaru/Smart-ai-powered-missing-person-detection-using-real-time-visual-evidence.git
 cd missing_person_finder
 
 ### 🧩 2. Create a virtual environment
