@@ -192,7 +192,7 @@ Volunteers and NGOs for real-world inspiration
 
 
 👩‍💻 Author
-Developed by: @Veena3028
+Developed by: @navyadhanalakshmi-bandaru
 💬 “Technology for Humanity — Using AI to reunite families.”
 
 📜 License
