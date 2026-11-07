@@ -53,9 +53,10 @@ missing_person_finder/
 ## 🚀 How to Run the Project
 
 ### 🧩 1. Clone the repository
+
 ```bash
-https://github.com/navyadhanalakshmi-bandaru/Smart-ai-powered-missing-person-detection-using-real-time-visual-evidence.git
-cd missing_person_finder
+git clone https://github.com/navyadhanalakshmi-bandaru/Smart-ai-powered-missing-person-detection-using-real-time-visual-evidence.git
+cd Smart-ai-powered-missing-person-detection-using-real-time-visual-evidence
 
 ### 🧩 2. Create a virtual environment
 ```bash
